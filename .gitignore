@@ -1,0 +1,4 @@
+node_modules/
+screenshots/
+ui-compare-results.xlsx
+package-lock.json
